@@ -1,0 +1,5049 @@
+[
+    {
+        "id": "106348474",
+        "premium": false,
+        "name": "Продавец-кассир срочно",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "salary": {
+            "from": 3000000,
+            "to": 7000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Ташкент",
+            "street": "улица Корасув",
+            "building": "27",
+            "lat": 41.294947,
+            "lng": 69.340553,
+            "description": null,
+            "raw": "Ташкент, улица Корасув, 27",
+            "metro": null,
+            "metro_stations": [],
+            "id": "16403754"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-29T17:23:59+0300",
+        "created_at": "2024-08-29T17:23:59+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106348474",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106348474?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106348474",
+        "relations": [],
+        "employer": {
+            "id": "10493606",
+            "name": "MV IMEX COMPANY",
+            "url": "https://api.hh.ru/employers/10493606",
+            "alternate_url": "https://hh.ru/employer/10493606",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10493606",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Общительность и умение легко ладить с людьми. -Компетентное вежливое обслуживание посетителей. -Умение выполнять обязанности кассира и оформить покупку на кассе. - ",
+            "responsibility": null
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "97",
+                "name": "Продавец-консультант, продавец-кассир"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106322970",
+        "premium": false,
+        "name": "Android Разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "53",
+            "name": "Краснодар",
+            "url": "https://api.hh.ru/areas/53"
+        },
+        "salary": {
+            "from": null,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-26T12:32:15+0300",
+        "created_at": "2024-08-26T12:32:15+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106322970",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106322970?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106322970",
+        "relations": [],
+        "employer": {
+            "id": "6164545",
+            "name": "ФОДЖИН",
+            "url": "https://api.hh.ru/employers/6164545",
+            "alternate_url": "https://hh.ru/employer/6164545",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1147901.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6212170.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6212169.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6164545",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Есть опыт разработки клиент-серверных приложений и понимание REST API. Знаешь <highlighttext>MV</highlighttext>* паттерны и умеешь их применять на практике. ",
+            "responsibility": "Участие в разработке приложений на Java/Kotlin. Отладку и исправление ошибок. Взаимодействие с командой разработки. Соблюдение best практик."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106556093",
+        "premium": false,
+        "name": "Middle Frontend Javascript разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "159",
+            "name": "Астана",
+            "url": "https://api.hh.ru/areas/159"
+        },
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-30T11:20:41+0300",
+        "created_at": "2024-08-30T11:20:41+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106556093",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106556093?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106556093",
+        "relations": [],
+        "employer": {
+            "id": "10164880",
+            "name": "Hoteza",
+            "url": "https://api.hh.ru/employers/10164880",
+            "alternate_url": "https://hh.ru/employer/10164880",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1146687.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6207314.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6207313.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10164880",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "...основных команд Linux, таких как ls, cd, grep, find, cp, <highlighttext>mv</highlighttext>, rm, chmod, chown. Умение уверенно работать в терминале: навигация...",
+            "responsibility": "Работать над флагманским легаси проектом в стадии рефакторинга по направлению Hoteza TV. Применять передовые технологии и лучшие практики во frontend..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106593672",
+        "premium": true,
+        "name": "Android разработчик владеющий Google Play Console",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "salary": {
+            "from": 2000,
+            "to": 3000,
+            "currency": "USD",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-09-01T10:15:13+0300",
+        "created_at": "2024-09-01T10:15:13+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106593672",
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106593672?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106593672",
+        "relations": [],
+        "employer": {
+            "id": "11372306",
+            "name": "THE BEST IT ONE",
+            "url": "https://api.hh.ru/employers/11372306",
+            "alternate_url": "https://hh.ru/employer/11372306",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11372306",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Умение работать с инструментами Android Studio, GIT. Знание Методологий и архитектур в Android (<highlighttext>MV</highlighttext> VM, MVI). Знание и понимание самых...",
+            "responsibility": "Разработка и поддержка серверной части нашего программного обеспечения, связанного с PL/SQL, Oracle. Работа в команде с другими разработчиками и..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106322889",
+        "premium": false,
+        "name": "Android Разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "76",
+            "name": "Ростов-на-Дону",
+            "url": "https://api.hh.ru/areas/76"
+        },
+        "salary": {
+            "from": null,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-26T12:31:39+0300",
+        "created_at": "2024-08-26T12:31:39+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106322889",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106322889?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106322889",
+        "relations": [],
+        "employer": {
+            "id": "6164545",
+            "name": "ФОДЖИН",
+            "url": "https://api.hh.ru/employers/6164545",
+            "alternate_url": "https://hh.ru/employer/6164545",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1147901.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6212170.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6212169.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6164545",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Есть опыт разработки клиент-серверных приложений и понимание REST API. Знаешь <highlighttext>MV</highlighttext>* паттерны и умеешь их применять на практике. ",
+            "responsibility": "Участие в разработке приложений на Java/Kotlin. Отладку и исправление ошибок. Взаимодействие с командой разработки. Соблюдение best практик."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105712134",
+        "premium": false,
+        "name": "Middle/Senior Python Developer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-13T09:15:13+0300",
+        "created_at": "2024-08-13T09:15:13+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105712134",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105712134?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105712134",
+        "relations": [],
+        "employer": {
+            "id": "2464195",
+            "name": "БОЛЬШАЯ ТРОЙКА",
+            "url": "https://api.hh.ru/employers/2464195",
+            "alternate_url": "https://hh.ru/employer/2464195",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1184680.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6359146.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6359147.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2464195",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Уверенное владение Django и понимание <highlighttext>MV</highlighttext>*. Понимание ORM и использование его с учетом преимуществ и недостатков. Опыт работы с реляционными...",
+            "responsibility": "Разработка приложения на базе Django. Взаимодействие с командой аналитики по реализации требований проекта. Сопровождение жизненного цикла приложения. Написание технической документации. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106013993",
+        "premium": false,
+        "name": "Менеджер по работе с клиентами (event-агентство)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": null,
+            "street": null,
+            "building": null,
+            "lat": null,
+            "lng": null,
+            "description": null,
+            "raw": null,
+            "metro": {
+                "station_name": "Дубровка",
+                "line_name": "Люблинско-Дмитровская",
+                "station_id": "10.39",
+                "line_id": "10",
+                "lat": 55.71807,
+                "lng": 37.676259
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Дубровка",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.39",
+                    "line_id": "10",
+                    "lat": 55.71807,
+                    "lng": 37.676259
+                },
+                {
+                    "station_name": "Дубровка",
+                    "line_name": "МЦК",
+                    "station_id": "95.529",
+                    "line_id": "95",
+                    "lat": 55.71268,
+                    "lng": 37.677775
+                },
+                {
+                    "station_name": "Кожуховская",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.52",
+                    "line_id": "10",
+                    "lat": 55.706156,
+                    "lng": 37.68544
+                }
+            ],
+            "id": "16151836"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-31T16:39:53+0300",
+        "created_at": "2024-08-31T16:39:53+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106013993",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106013993?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106013993",
+        "relations": [],
+        "employer": {
+            "id": "9415446",
+            "name": "BYTIME",
+            "url": "https://api.hh.ru/employers/9415446",
+            "alternate_url": "https://hh.ru/employer/9415446",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6528641.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/6528642.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1227050.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9415446",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Результаты в продажах на прежних местах работы. Опыт в event-индустрии будет мощным преимуществом. Любовь к продажам и event. ",
+            "responsibility": "Работать с постоянными клиентами (обрабатывать входящие заявки, поддерживать контакт и развивать лояльную базу). Создавать КП для клиентов (концепция мероприятия, идея..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105367108",
+        "premium": false,
+        "name": "IOS-разработчик",
+        "department": {
+            "id": "ozonru-2180-dev",
+            "name": "Ozon Информационные технологии"
+        },
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-07T09:37:47+0300",
+        "created_at": "2024-08-07T09:37:47+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105367108",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105367108?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105367108",
+        "relations": [],
+        "employer": {
+            "id": "2180",
+            "name": "Ozon",
+            "url": "https://api.hh.ru/employers/2180",
+            "alternate_url": "https://hh.ru/employer/2180",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1069622.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5899118.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5899117.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2180",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Коммерчесĸий опыт или уверенные знания SwiftUI. Опыт работы с MVVM или <highlighttext>MV</highlighttext>-архитеĸтурами в целом. Понимание и применение принципов SOLID...",
+            "responsibility": "Реализовывать новые фичи, участвовать в проработĸе UX/UI дизайна. Прорабатывать техничесĸие решения и подходы c ĸомандой. Внедрять и использовать..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "104633864",
+        "premium": false,
+        "name": "Разработчик мобильных приложений iOS, Логистика, Магистраль",
+        "department": {
+            "id": "ozonru-2180-dev",
+            "name": "Ozon Информационные технологии"
+        },
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-20T15:29:21+0300",
+        "created_at": "2024-08-20T15:29:21+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104633864",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/104633864?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104633864",
+        "relations": [],
+        "employer": {
+            "id": "2180",
+            "name": "Ozon",
+            "url": "https://api.hh.ru/employers/2180",
+            "alternate_url": "https://hh.ru/employer/2180",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1069622.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5899118.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5899117.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2180",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Аĸтуальный опыт работы со SwiftUI (последний год). Опыт работы с MVVM или <highlighttext>MV</highlighttext>-архитектурами в целом. Понимание и применение принципов...",
+            "responsibility": "Реализовывать новые фичи, участвовать в проработке UX/UI дизайна. Внедрять и использовать SDK Ozon. Прорабатывать технические решения и подходы c..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105383522",
+        "premium": false,
+        "name": "Инженер-программист АСУ ТП",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "88",
+            "name": "Казань",
+            "url": "https://api.hh.ru/areas/88"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Казань",
+            "street": "Спартаковская улица",
+            "building": "2",
+            "lat": 55.779474,
+            "lng": 49.128126,
+            "description": null,
+            "raw": "Казань, Спартаковская улица, 2",
+            "metro": {
+                "station_name": "Площадь Тукая",
+                "line_name": "Центральная",
+                "station_id": "49.273",
+                "line_id": "49",
+                "lat": 55.787163,
+                "lng": 49.122126
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Площадь Тукая",
+                    "line_name": "Центральная",
+                    "station_id": "49.273",
+                    "line_id": "49",
+                    "lat": 55.787163,
+                    "lng": 49.122126
+                },
+                {
+                    "station_name": "Суконная слобода",
+                    "line_name": "Центральная",
+                    "station_id": "49.274",
+                    "line_id": "49",
+                    "lat": 55.777094,
+                    "lng": 49.142275
+                }
+            ],
+            "id": "12639898"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-07T12:17:16+0300",
+        "created_at": "2024-08-07T12:17:16+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105383522",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105383522?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105383522",
+        "relations": [],
+        "employer": {
+            "id": "1331994",
+            "name": "ТензоТехСервис",
+            "url": "https://api.hh.ru/employers/1331994",
+            "alternate_url": "https://hh.ru/employer/1331994",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/919439.png",
+                "90": "https://img.hhcdn.ru/employer-logo/4118332.png",
+                "240": "https://img.hhcdn.ru/employer-logo/4118333.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1331994",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Высшее техническое образование. Опыт работы с PLC / HMI-панелями (будет преимуществом), SCADA системами (обязательно) и сетевым оборудованием. Опыт конфигурирования сетевых...",
+            "responsibility": "Разработка программного обеспечения средств автоматизации: PLC / HMI, SCADA систем. Внесение изменений и доработка ПО ПЛК, панелей оператора и SCADA систем..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "project",
+            "name": "Проектная работа"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106374551",
+        "premium": false,
+        "name": "Руководитель товарных закупок",
+        "department": {
+            "id": "8582-8582-lmofis",
+            "name": "Лемана ПРО (Леруа Мерлен). Центральный офис"
+        },
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "проспект Лихачёва",
+            "building": "15",
+            "lat": 55.699807,
+            "lng": 37.644612,
+            "description": null,
+            "raw": "Москва, проспект Лихачёва, 15",
+            "metro": {
+                "station_name": "Автозаводская",
+                "line_name": "Замоскворецкая",
+                "station_id": "2.2",
+                "line_id": "2",
+                "lat": 55.706634,
+                "lng": 37.657008
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Автозаводская",
+                    "line_name": "Замоскворецкая",
+                    "station_id": "2.2",
+                    "line_id": "2",
+                    "lat": 55.706634,
+                    "lng": 37.657008
+                },
+                {
+                    "station_name": "ЗИЛ",
+                    "line_name": "МЦК",
+                    "station_id": "95.531",
+                    "line_id": "95",
+                    "lat": 55.698333,
+                    "lng": 37.648333
+                }
+            ],
+            "id": "7512386"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-27T10:45:25+0300",
+        "created_at": "2024-08-27T10:45:25+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106374551",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106374551?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106374551",
+        "relations": [],
+        "employer": {
+            "id": "8582",
+            "name": "Лемана ПРО (Леруа Мерлен)",
+            "url": "https://api.hh.ru/employers/8582",
+            "alternate_url": "https://hh.ru/employer/8582",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6782038.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1290435.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6782039.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8582",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы в закупках производственно-торговых компаний (производство товаров народного потребления) и/или закупка ТНП для компаний сегмента ритейла не...",
+            "responsibility": "Отвечать за управление рентабельностью через RFA/<highlighttext>MV</highlighttext>%. Регулярно анализировать закупочную деятельность в части маржинальности, оборачиваемости товарной номенклатуры и капитала, качества..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "66",
+                "name": "Менеджер по закупкам"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "104466234",
+        "premium": false,
+        "name": "Frontend Developer в VK WorkMail",
+        "department": {
+            "id": "mailru-15478-vkdigit",
+            "name": "VK, VK Tech"
+        },
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-22T17:42:32+0300",
+        "created_at": "2024-08-22T17:42:32+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104466234",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/104466234?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104466234",
+        "relations": [],
+        "employer": {
+            "id": "15478",
+            "name": "VK",
+            "url": "https://api.hh.ru/employers/15478",
+            "alternate_url": "https://hh.ru/employer/15478",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6808731.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6808730.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1297111.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=15478",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Понимание принципов работы браузера и основных API. Отличное знание JavaScript (ES5+), умение писать структурированный и читаемый код. ",
+            "responsibility": "VK WorkMail — корпоративная почта с расширенной функциональностью: редактированием писем, журналом действий, делегированием прав на работу с почтовыми ящиками, календарём. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "103156829",
+        "premium": false,
+        "name": "Разработчик Android приложений",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "76",
+            "name": "Ростов-на-Дону",
+            "url": "https://api.hh.ru/areas/76"
+        },
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Ростов-на-Дону",
+            "street": "Большая Садовая улица",
+            "building": "176",
+            "lat": 47.22657,
+            "lng": 39.739618,
+            "description": null,
+            "raw": "Ростов-на-Дону, Большая Садовая улица, 176",
+            "metro": null,
+            "metro_stations": [],
+            "id": "11161425"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-22T19:24:18+0300",
+        "created_at": "2024-08-22T19:24:18+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103156829",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/103156829?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/103156829",
+        "relations": [],
+        "employer": {
+            "id": "655222",
+            "name": "Лилиани",
+            "url": "https://api.hh.ru/employers/655222",
+            "alternate_url": "https://hh.ru/employer/655222",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/2367589.png",
+                "90": "https://img.hhcdn.ru/employer-logo/2367588.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/481434.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=655222",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Уверенное знание Java/Kotlin. Android SDK.Kotlin Coroutines. Понимание <highlighttext>MV</highlighttext>* паттернов. Базовые знания Git. Понимание REST API для взаимодействия с backend...",
+            "responsibility": "Нативное программирование на Kotlin под Android. Разработка нового функционала приложения и рефакторинг существующего. Разработка и тестирование взаимодействия приложения Bluetooth/USB..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105241082",
+        "premium": false,
+        "name": "Менеджер по продажам в Event-агентство",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 60000,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "Южнопортовая улица",
+            "building": "5с6",
+            "lat": 55.707588,
+            "lng": 37.688782,
+            "description": null,
+            "raw": "Москва, Южнопортовая улица, 5с6",
+            "metro": {
+                "station_name": "Кожуховская",
+                "line_name": "Люблинско-Дмитровская",
+                "station_id": "10.52",
+                "line_id": "10",
+                "lat": 55.706156,
+                "lng": 37.68544
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Кожуховская",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.52",
+                    "line_id": "10",
+                    "lat": 55.706156,
+                    "lng": 37.68544
+                }
+            ],
+            "id": "15239700"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-05T12:55:23+0300",
+        "created_at": "2024-08-05T12:55:23+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105241082",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105241082?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105241082",
+        "relations": [],
+        "employer": {
+            "id": "3632549",
+            "name": "Мастерская Волшебства",
+            "url": "https://api.hh.ru/employers/3632549",
+            "alternate_url": "https://hh.ru/employer/3632549",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/4302832.png",
+                "240": "https://img.hhcdn.ru/employer-logo/4302833.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/961176.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3632549",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Активного и позитивного человека, который готов развиваться в сфере продаж крупных мероприятий. Человека, который не боится общаться с крупными клиентами...",
+            "responsibility": "Формирование и ведение базы клиентов. Составление смет и презентаций для клиента. Общение с действующими и поиск новых клиентов."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106111614",
+        "premium": false,
+        "name": "Начальник проектного офиса",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-21T12:04:47+0300",
+        "created_at": "2024-08-21T12:04:47+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106111614",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106111614?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106111614",
+        "relations": [],
+        "employer": {
+            "id": "10504959",
+            "name": "Новоджамбулский фосфорный завод",
+            "url": "https://api.hh.ru/employers/10504959",
+            "alternate_url": "https://hh.ru/employer/10504959",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1196271.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6405533.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6405534.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10504959",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Высшее образование в области управления, экономики, промышленного производства или смежных специальностей. Дополнительное образование или сертификация в области стратегического управления, управления...",
+            "responsibility": "Разработка и координация инвестиционных проектов, включая проекты <highlighttext>MV</highlighttext> (материальные вложения) и IFA (инвестиционные финансовые активы). Контроль за выполнением инвестиционных проектов..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "107",
+                "name": "Руководитель проектов"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105872441",
+        "premium": false,
+        "name": "Android Разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-15T15:31:33+0300",
+        "created_at": "2024-08-15T15:31:33+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105872441",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105872441?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105872441",
+        "relations": [],
+        "employer": {
+            "id": "53368",
+            "name": "Innovative People",
+            "url": "https://api.hh.ru/employers/53368",
+            "alternate_url": "https://hh.ru/employer/53368",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/1879387.png",
+                "90": "https://img.hhcdn.ru/employer-logo/1879386.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/359281.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=53368",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Глубокое понимание Android SDK. Понимание Clean Architecture. Знание <highlighttext>MV</highlighttext>* паттернов, паттернов проектирования и архитектур. Понимание многомодульной архитектуры приложения. ",
+            "responsibility": "Работа над продуктовыми задачами внутри фича-команд. Развитие интересных вам технических частей проекта. Проведение Code Review. Улучшение архитектуры и принятие..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105238847",
+        "premium": false,
+        "name": "Event-менеджер",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 60000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "Южнопортовая улица",
+            "building": "5с6",
+            "lat": 55.707588,
+            "lng": 37.688782,
+            "description": null,
+            "raw": "Москва, Южнопортовая улица, 5с6",
+            "metro": {
+                "station_name": "Кожуховская",
+                "line_name": "Люблинско-Дмитровская",
+                "station_id": "10.52",
+                "line_id": "10",
+                "lat": 55.706156,
+                "lng": 37.68544
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Кожуховская",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.52",
+                    "line_id": "10",
+                    "lat": 55.706156,
+                    "lng": 37.68544
+                }
+            ],
+            "id": "15239700"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-05T12:35:39+0300",
+        "created_at": "2024-08-05T12:35:39+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105238847",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105238847?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105238847",
+        "relations": [],
+        "employer": {
+            "id": "3632549",
+            "name": "Мастерская Волшебства",
+            "url": "https://api.hh.ru/employers/3632549",
+            "alternate_url": "https://hh.ru/employer/3632549",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/4302832.png",
+                "240": "https://img.hhcdn.ru/employer-logo/4302833.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/961176.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3632549",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "С обязательной любовью к ивентам! Наличие чувства вкуса и стиля во всем.",
+            "responsibility": "Полная организация мероприятия. Подбор персонала и подрядчиков. Продумывание и создание новых программ, продуктов. Закупка и поиск необходимого реквизита и костюмов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "1",
+                "name": "Event-менеджер"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "103488861",
+        "premium": false,
+        "name": "Android разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-07T11:22:53+0300",
+        "created_at": "2024-08-07T11:22:53+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103488861",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/103488861?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/103488861",
+        "relations": [],
+        "employer": {
+            "id": "681672",
+            "name": "USETECH",
+            "url": "https://api.hh.ru/employers/681672",
+            "alternate_url": "https://hh.ru/employer/681672",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6606194.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6606193.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1246441.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=681672",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Глубокое понимание Android SDK. Понимание Clean Architecture. Знание <highlighttext>MV</highlighttext>* паттернов, паттернов проектирования и архитектур. Понимание многомодульной архитектуры приложения. ",
+            "responsibility": "Работа над продуктовыми задачами внутри фича-команд. Развитие интересных вам технических частей проекта. Проведение Code Review. Улучшение архитектуры и принятие..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "moreThan6",
+            "name": "Более 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106572691",
+        "premium": false,
+        "name": "Бармен",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2086",
+            "name": "Дубна (Московская область)",
+            "url": "https://api.hh.ru/areas/2086"
+        },
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Дубна",
+            "street": "проспект Боголюбова",
+            "building": "21",
+            "lat": 56.734894,
+            "lng": 37.157725,
+            "description": null,
+            "raw": "Дубна, проспект Боголюбова, 21",
+            "metro": null,
+            "metro_stations": [],
+            "id": "11824597"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-30T15:38:54+0300",
+        "created_at": "2024-08-30T15:38:54+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106572691",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106572691?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106572691",
+        "relations": [],
+        "employer": {
+            "id": "3202273",
+            "name": "MV Company",
+            "url": "https://api.hh.ru/employers/3202273",
+            "alternate_url": "https://hh.ru/employer/3202273",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/519903.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/2521090.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/2521089.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3202273",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "главное: желание и ответственный подход к работе. Опыт станет вашим преимуществом!",
+            "responsibility": "приготовление напитков по тех.картам. - соблюдение норм хранения и учета. - обслуживание и расчет гостей. - приготовление напитков по тех.картам. - поддержание чистоты на..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "89",
+                "name": "Официант, бармен, бариста"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105744328",
+        "premium": false,
+        "name": "Android разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-13T14:43:28+0300",
+        "created_at": "2024-08-13T14:43:28+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105744328",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105744328?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105744328",
+        "relations": [],
+        "employer": {
+            "id": "6189",
+            "name": "Bell Integrator",
+            "url": "https://api.hh.ru/employers/6189",
+            "alternate_url": "https://hh.ru/employer/6189",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1279701.jpg",
+                "90": "https://img.hhcdn.ru/employer-logo/6739102.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/6739103.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6189",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Глубокое понимание Android SDK. Понимание Clean Architecture. Знание <highlighttext>MV</highlighttext>* паттернов, паттернов проектирования и архитектур. Понимание многомодульной архитектуры приложения. ",
+            "responsibility": "Работа над продуктовыми задачами внутри фича-команд. Развитие интересных вам технических частей проекта. Проведение Code Review. Улучшение архитектуры и принятие..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "96492873",
+        "premium": false,
+        "name": "Повар-сушист",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2038",
+            "name": "Котельники  (Московская область)",
+            "url": "https://api.hh.ru/areas/2038"
+        },
+        "salary": {
+            "from": null,
+            "to": 127500,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Котельники",
+            "street": "Новорязанское шоссе",
+            "building": "24",
+            "lat": 55.658271,
+            "lng": 37.885935,
+            "description": null,
+            "raw": "Котельники, Новорязанское шоссе, 24",
+            "metro": {
+                "station_name": "Котельники",
+                "line_name": "Таганско-Краснопресненская",
+                "station_id": "7.508",
+                "line_id": "7",
+                "lat": 55.6743,
+                "lng": 37.8582
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Котельники",
+                    "line_name": "Таганско-Краснопресненская",
+                    "station_id": "7.508",
+                    "line_id": "7",
+                    "lat": 55.6743,
+                    "lng": 37.8582
+                }
+            ],
+            "id": "1989175"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-14T09:07:18+0300",
+        "created_at": "2024-08-14T09:07:18+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=96492873",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/96492873?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/96492873",
+        "relations": [],
+        "employer": {
+            "id": "18384",
+            "name": "Глобус, Сеть гипермаркетов",
+            "url": "https://api.hh.ru/employers/18384",
+            "alternate_url": "https://hh.ru/employer/18384",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/2285744.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/2285745.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/460971.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=18384",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Рассматриваем кандидатов с опытом работы и без (всему обучим). - Доброжелательность и вежливость в общении с людьми. - Желание работать в команде. - ",
+            "responsibility": "Приготовление роллов. - Контроль сроков хранения готовой продукции и полуфабрикатов. - Соблюдение чистоты и порядка на рабочем месте."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105706757",
+        "premium": false,
+        "name": "Middle+ Android-разработчик в Контур",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-13T07:53:35+0300",
+        "created_at": "2024-08-13T07:53:35+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105706757",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105706757?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105706757",
+        "relations": [],
+        "employer": {
+            "id": "41862",
+            "name": "Контур",
+            "url": "https://api.hh.ru/employers/41862",
+            "alternate_url": "https://hh.ru/employer/41862",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/3863720.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3863719.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/855711.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=41862",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Основной стек: Jetpack Compose, Kotlin Coroutines, Decompose, Ktor/Retrofit, Room/SqlDelight, MVI/VisualFSM, Koin. Самостоятельно вели проекты как разработчик. ",
+            "responsibility": "Готовы изучать новые технологии. Переиспользуем общие инфраструктурные модули, ускоряющие разработку: единая авторизация, контроль безопасности, чат с техподдержкой и т. д. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106275448",
+        "premium": false,
+        "name": "Middle Android Developer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-29T18:45:35+0300",
+        "created_at": "2024-08-29T18:45:35+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106275448",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106275448?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106275448",
+        "relations": [],
+        "employer": {
+            "id": "2104558",
+            "name": "GrowFood",
+            "url": "https://api.hh.ru/employers/2104558",
+            "alternate_url": "https://hh.ru/employer/2104558",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/969143.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/5496589.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/5496588.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2104558",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Достигнуть годового оборота в 4 млрд рублей. Опыта коммерческой разработки Android-приложений не менее 3-х лет. Уверенных знаний Kotlin...",
+            "responsibility": "Стать ТОП-1 Брендом в сегменте доставки рационов."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105385447",
+        "premium": false,
+        "name": "Технический специалист",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "Южнопортовая улица",
+            "building": "5с6",
+            "lat": 55.707588,
+            "lng": 37.688782,
+            "description": null,
+            "raw": "Москва, Южнопортовая улица, 5с6",
+            "metro": {
+                "station_name": "Кожуховская",
+                "line_name": "Люблинско-Дмитровская",
+                "station_id": "10.52",
+                "line_id": "10",
+                "lat": 55.706156,
+                "lng": 37.68544
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Кожуховская",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.52",
+                    "line_id": "10",
+                    "lat": 55.706156,
+                    "lng": 37.68544
+                }
+            ],
+            "id": "15239700"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-07T12:40:14+0300",
+        "created_at": "2024-08-07T12:40:14+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105385447",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105385447?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105385447",
+        "relations": [],
+        "employer": {
+            "id": "3632549",
+            "name": "Мастерская Волшебства",
+            "url": "https://api.hh.ru/employers/3632549",
+            "alternate_url": "https://hh.ru/employer/3632549",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/4302832.png",
+                "240": "https://img.hhcdn.ru/employer-logo/4302833.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/961176.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3632549",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Технического специалиста, умеющего работать руками и головой. Активного, ответственного и дисциплинированного, любящего свое дело и готового развиваться в технических вопросах.",
+            "responsibility": "привоз и увоз вещей на мероприятия. - контроль привоза и увоза вещей на мероприятие. - осуществление монтажа и демонтажа мероприятия. - "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "111",
+                "name": "Сервисный инженер, инженер-механик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105473238",
+        "premium": false,
+        "name": "Водитель-экспедитор",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 80000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "2-й Южнопортовый проезд",
+            "building": "20Ас4",
+            "lat": 55.702384,
+            "lng": 37.693597,
+            "description": null,
+            "raw": "Москва, 2-й Южнопортовый проезд, 20Ас4",
+            "metro": {
+                "station_name": "Кожуховская",
+                "line_name": "Люблинско-Дмитровская",
+                "station_id": "10.52",
+                "line_id": "10",
+                "lat": 55.706156,
+                "lng": 37.68544
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Кожуховская",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.52",
+                    "line_id": "10",
+                    "lat": 55.706156,
+                    "lng": 37.68544
+                }
+            ],
+            "id": "5202388"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-09-01T15:27:05+0300",
+        "created_at": "2024-09-01T15:27:05+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105473238",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105473238?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105473238",
+        "relations": [],
+        "employer": {
+            "id": "58593",
+            "name": "Videofon MV",
+            "url": "https://api.hh.ru/employers/58593",
+            "alternate_url": "https://hh.ru/employer/58593",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=58593",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Среднее специальное (техническое) образование. Права категории В. Знание правил оформления путевых листов. Требуемый опыт работы: 3–6 лет. ",
+            "responsibility": "Получение и перевозка груза в соответствии с сопроводительными документами (сверка накладных с грузом по названию и количеству). Оформление документации, участие..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "21",
+                "name": "Водитель"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105907228",
+        "premium": false,
+        "name": "Электроэрозионист / Оператор (м.Ботаническая, р-н. Уктуса)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Екатеринбург",
+            "street": "Благодатская улица",
+            "building": "76",
+            "lat": 56.77705,
+            "lng": 60.632078,
+            "description": null,
+            "raw": "Екатеринбург, Благодатская улица, 76",
+            "metro": null,
+            "metro_stations": [],
+            "id": "14167425"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-31T11:23:29+0300",
+        "created_at": "2024-08-31T11:23:29+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105907228",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105907228?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105907228",
+        "relations": [],
+        "employer": {
+            "id": "3920508",
+            "name": "ПО УРАЛМЕХМАШ",
+            "url": "https://api.hh.ru/employers/3920508",
+            "alternate_url": "https://hh.ru/employer/3920508",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6836507.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6836506.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1304061.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3920508",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "DK7725 программный комплекс AutoCUT (AutoCad). DK7745 программный комплекс AutoCUT (AutoCad). D703-T, Супердрель электроэрозионная. Что Вам нужно...",
+            "responsibility": "8. Заполнение сопроводительной документации. Парк станков: Проволочные вырезные станки: Mitsubishi <highlighttext>MV</highlighttext>1200R стойка Mitsubishi. DK7750 стойка HF. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "86",
+                "name": "Оператор станков с ЧПУ"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105992454",
+        "premium": false,
+        "name": "Android Developer (проект «Фото») в ОК",
+        "department": {
+            "id": "mailru-15478-od",
+            "name": "VK, Одноклассники"
+        },
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-19T20:07:27+0300",
+        "created_at": "2024-08-19T20:07:27+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105992454",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105992454?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105992454",
+        "relations": [],
+        "employer": {
+            "id": "15478",
+            "name": "VK",
+            "url": "https://api.hh.ru/employers/15478",
+            "alternate_url": "https://hh.ru/employer/15478",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/ichameleon/366685.png",
+                "240": "https://img.hhcdn.ru/ichameleon/366685.png",
+                "original": "https://img.hhcdn.ru/ichameleon/366685.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=15478",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Знание Java, Kotlin. Знание принципов SOLID и <highlighttext>MV</highlighttext>*-паттернов (MVP, MVVM и других). Понимание Single Activity Architecture, Multi-module project. ",
+            "responsibility": "Развитие функциональности сервиса «Фото»: оптимизация загрузки с учётом состояния сети (Wi-Fi/4G/3G/EDGE), улучшение протоколов по..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106284059",
+        "premium": false,
+        "name": "Су-шеф",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2086",
+            "name": "Дубна (Московская область)",
+            "url": "https://api.hh.ru/areas/2086"
+        },
+        "salary": {
+            "from": 115000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Дубна",
+            "street": "улица Попова",
+            "building": "7В",
+            "lat": 56.732879,
+            "lng": 37.155524,
+            "description": null,
+            "raw": "Дубна, улица Попова, 7В",
+            "metro": null,
+            "metro_stations": [],
+            "id": "14266047"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-24T23:21:49+0300",
+        "created_at": "2024-08-24T23:21:49+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106284059",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106284059?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106284059",
+        "relations": [],
+        "employer": {
+            "id": "3202273",
+            "name": "MV Company",
+            "url": "https://api.hh.ru/employers/3202273",
+            "alternate_url": "https://hh.ru/employer/3202273",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/519903.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/2521090.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/2521089.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3202273",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы повара в кафе/ресторанах ОБЯЗАТЕЛЕН от 3х лет. Приветствуется опыт на руководящей должности.",
+            "responsibility": "Готовое меню. - Приготовление блюд по тех.картам. - Содержание в чистоте своего рабочего места. - Участие в ревизии. - Управление персоналом кухни. - "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106012686",
+        "premium": false,
+        "name": "Повар",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2086",
+            "name": "Дубна (Московская область)",
+            "url": "https://api.hh.ru/areas/2086"
+        },
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Дубна",
+            "street": "улица Попова",
+            "building": "7В",
+            "lat": 56.732879,
+            "lng": 37.155524,
+            "description": null,
+            "raw": "Дубна, улица Попова, 7В",
+            "metro": null,
+            "metro_stations": [],
+            "id": "14266047"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-19T16:21:21+0300",
+        "created_at": "2024-08-19T16:21:21+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106012686",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106012686?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106012686",
+        "relations": [],
+        "employer": {
+            "id": "3202273",
+            "name": "MV Company",
+            "url": "https://api.hh.ru/employers/3202273",
+            "alternate_url": "https://hh.ru/employer/3202273",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/519903.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/2521090.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/2521089.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3202273",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Любить свое дело! ️ Требования: Опыт работы повара в кафе/ресторанах от 1 года на любых позициях..",
+            "responsibility": "Готовое меню. - Приготовление блюд по тех.картам. - Содержание в чистоте своего рабочего места. Записаться на собеседование или задать свои вопросы можно..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "94",
+                "name": "Повар, пекарь, кондитер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "94359882",
+        "premium": false,
+        "name": "Senior Android Developer в Automotive Solutions",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "проспект Андропова",
+            "building": "10А",
+            "lat": 55.692932,
+            "lng": 37.665363,
+            "description": null,
+            "raw": "Москва, проспект Андропова, 10А",
+            "metro": {
+                "station_name": "Автозаводская",
+                "line_name": "Замоскворецкая",
+                "station_id": "2.2",
+                "line_id": "2",
+                "lat": 55.706634,
+                "lng": 37.657008
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Автозаводская",
+                    "line_name": "Замоскворецкая",
+                    "station_id": "2.2",
+                    "line_id": "2",
+                    "lat": 55.706634,
+                    "lng": 37.657008
+                },
+                {
+                    "station_name": "ЗИЛ",
+                    "line_name": "МЦК",
+                    "station_id": "95.531",
+                    "line_id": "95",
+                    "lat": 55.698333,
+                    "lng": 37.648333
+                },
+                {
+                    "station_name": "Технопарк",
+                    "line_name": "Замоскворецкая",
+                    "station_id": "2.512",
+                    "line_id": "2",
+                    "lat": 55.695,
+                    "lng": 37.664167
+                }
+            ],
+            "id": "5817368"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-05T16:01:46+0300",
+        "created_at": "2024-08-05T16:01:46+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94359882",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/94359882?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/94359882",
+        "relations": [],
+        "employer": {
+            "id": "5267014",
+            "name": "Автотех",
+            "url": "https://api.hh.ru/employers/5267014",
+            "alternate_url": "https://hh.ru/employer/5267014",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1325377.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6921538.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6921539.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5267014",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт разработки CustomView и хорошее знание RecyclerView. Знание <highlighttext>MV</highlighttext>* паттернов, паттернов проектирования и архитектур. Понимание внутренней архитектуры AOSP. ",
+            "responsibility": "Написание кода. Проведение Code Review. Помощь в реализации архитектуры приложения. Взаимодействие в кросс-команде разработки Backend, мобильной разработки, тестировщиками, дизайнерами..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105913936",
+        "premium": false,
+        "name": "Начальник проектного офиса",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "187",
+            "name": "Тараз",
+            "url": "https://api.hh.ru/areas/187"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-16T12:51:33+0300",
+        "created_at": "2024-08-16T12:51:33+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105913936",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105913936?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105913936",
+        "relations": [],
+        "employer": {
+            "id": "10504959",
+            "name": "Новоджамбулский фосфорный завод",
+            "url": "https://api.hh.ru/employers/10504959",
+            "alternate_url": "https://hh.ru/employer/10504959",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1196271.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6405533.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6405534.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10504959",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт разработки и реализации инвестиционных и операционных проектов. Опыт работы в управлении проектами не менее 5 лет, предпочтительно на руководящих...",
+            "responsibility": "Разработка и координация инвестиционных проектов, включая проекты <highlighttext>MV</highlighttext> (материальные вложения) и IFA (инвестиционные финансовые активы). Контроль за выполнением инвестиционных проектов..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "107",
+                "name": "Руководитель проектов"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "moreThan6",
+            "name": "Более 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105665263",
+        "premium": false,
+        "name": "Android разработчик, приложение для инвестиций",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-12T13:06:02+0300",
+        "created_at": "2024-08-12T13:06:02+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105665263",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105665263?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105665263",
+        "relations": [],
+        "employer": {
+            "id": "819979",
+            "name": "SkillStaff",
+            "url": "https://api.hh.ru/employers/819979",
+            "alternate_url": "https://hh.ru/employer/819979",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1261412.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6665974.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6665975.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=819979",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Глубокое понимание Android SDK. Понимание Clean Architecture. Знание <highlighttext>MV</highlighttext>* паттернов, паттернов проектирования и архитектур. Понимание многомодульной архитектуры приложения. ",
+            "responsibility": "Развивать интересные вам технические части проекта. Проводить Code Review. Улучшать архитектуру и принимать технических решений вместе с командой. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105717870",
+        "premium": false,
+        "name": "Разработчик Android",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "Ракетный бульвар",
+            "building": "16",
+            "lat": 55.817471,
+            "lng": 37.655688,
+            "description": null,
+            "raw": "Москва, Ракетный бульвар, 16",
+            "metro": {
+                "station_name": "ВДНХ",
+                "line_name": "Калужско-Рижская",
+                "station_id": "6.27",
+                "line_id": "6",
+                "lat": 55.819626,
+                "lng": 37.640751
+            },
+            "metro_stations": [
+                {
+                    "station_name": "ВДНХ",
+                    "line_name": "Калужско-Рижская",
+                    "station_id": "6.27",
+                    "line_id": "6",
+                    "lat": 55.819626,
+                    "lng": 37.640751
+                }
+            ],
+            "id": "6169535"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-13T10:13:57+0300",
+        "created_at": "2024-08-13T10:13:57+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105717870",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105717870?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105717870",
+        "relations": [],
+        "employer": {
+            "id": "4722815",
+            "name": "Айтикью Груп",
+            "url": "https://api.hh.ru/employers/4722815",
+            "alternate_url": "https://hh.ru/employer/4722815",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/4230917.png",
+                "90": "https://img.hhcdn.ru/employer-logo/4230916.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/947595.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4722815",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Глубокое понимание Android SDK. Понимание Clean Architecture. Знаешь <highlighttext>MV</highlighttext>* паттерны, паттерны проектирования и архитектур. Понимание многомодульной архитектуры приложения. ",
+            "responsibility": "Работать над продуктовыми задачами внутри фича-команд. Развивать интересные тебе технические части проекта. Проводить Code Review. Улучшать архитектуру и принятие..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106035305",
+        "premium": false,
+        "name": "Программист .net",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        },
+        "salary": {
+            "from": 500000,
+            "to": 800000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Астана",
+            "street": "улица Куйши Дина",
+            "building": "3",
+            "lat": 51.146523,
+            "lng": 71.463047,
+            "description": null,
+            "raw": "Астана, улица Куйши Дина, 3",
+            "metro": null,
+            "metro_stations": [],
+            "id": "290924"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-20T09:17:29+0300",
+        "created_at": "2024-08-20T09:17:29+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106035305",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106035305?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106035305",
+        "relations": [],
+        "employer": {
+            "id": "74337",
+            "name": "НАТ Казахстан, AO",
+            "url": "https://api.hh.ru/employers/74337",
+            "alternate_url": "https://hh.ru/employer/74337",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/822574.png",
+                "240": "https://img.hhcdn.ru/employer-logo/3731184.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3731183.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=74337",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы с .Net Core. Знание любого клиентского <highlighttext>MV</highlighttext>*-фреймворка (Angular2+, React/Redux). Опыт работы с ORM (Entity...",
+            "responsibility": null
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105706857",
+        "premium": false,
+        "name": "Middle+ Android-разработчик в Контур",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "4",
+            "name": "Новосибирск",
+            "url": "https://api.hh.ru/areas/4"
+        },
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-13T07:55:59+0300",
+        "created_at": "2024-08-13T07:55:59+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105706857",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105706857?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105706857",
+        "relations": [],
+        "employer": {
+            "id": "41862",
+            "name": "Контур",
+            "url": "https://api.hh.ru/employers/41862",
+            "alternate_url": "https://hh.ru/employer/41862",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/3863720.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3863719.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/855711.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=41862",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Основной стек: Jetpack Compose, Kotlin Coroutines, Decompose, Ktor/Retrofit, Room/SqlDelight, MVI/VisualFSM, Koin. Самостоятельно вели проекты как разработчик. ",
+            "responsibility": "Готовы изучать новые технологии. Переиспользуем общие инфраструктурные модули, ускоряющие разработку: единая авторизация, контроль безопасности, чат с техподдержкой и т. д. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105473486",
+        "premium": false,
+        "name": "Инженер-сметчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 100000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "2-й Южнопортовый проезд",
+            "building": "20ас4",
+            "lat": 55.702384,
+            "lng": 37.693597,
+            "description": null,
+            "raw": "Москва, 2-й Южнопортовый проезд, 20ас4",
+            "metro": {
+                "station_name": "Кожуховская",
+                "line_name": "Люблинско-Дмитровская",
+                "station_id": "10.52",
+                "line_id": "10",
+                "lat": 55.706156,
+                "lng": 37.68544
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Кожуховская",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.52",
+                    "line_id": "10",
+                    "lat": 55.706156,
+                    "lng": 37.68544
+                }
+            ],
+            "id": "155793"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-09-01T15:31:19+0300",
+        "created_at": "2024-09-01T15:31:19+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105473486",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105473486?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105473486",
+        "relations": [],
+        "employer": {
+            "id": "58593",
+            "name": "Videofon MV",
+            "url": "https://api.hh.ru/employers/58593",
+            "alternate_url": "https://hh.ru/employer/58593",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=58593",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Высшее или среднее специальное образование. Знание программ Смета.ру (ОБЯЗАТЕЛЬНО), Гранд Смета, расценки ТСН. Знание технологии работ (слаботочные системы, монтажные, ПНР). ",
+            "responsibility": "Составление и проверка сметной документации (слаботочные системы СКУД, ОС, АПС, ВН; монтажные; ПНР). Анализ сметной документации на основе выданной в..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "47",
+                "name": "Инженер ПТО, инженер-сметчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105523975",
+        "premium": false,
+        "name": "Middle+/Senior Android разработчик (Java/Kotlin)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-09T12:20:47+0300",
+        "created_at": "2024-08-09T12:20:47+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105523975",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105523975?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105523975",
+        "relations": [],
+        "employer": {
+            "id": "9906874",
+            "name": "Юзтех Бел",
+            "url": "https://api.hh.ru/employers/9906874",
+            "alternate_url": "https://hh.ru/employer/9906874",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9906874",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Глубокое понимание Android SDK. Понимание Clean Architecture. Знание <highlighttext>MV</highlighttext>* паттернов, паттернов проектирования и архитектур. Понимание многомодульной архитектуры приложения. ",
+            "responsibility": "Работа над продуктовыми задачами внутри фича-команд. Развитие интересных вам технических частей проекта. Проведение Code Review. Улучшение архитектуры и принятие..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106074381",
+        "premium": false,
+        "name": "Backend разработчик (C# .Net)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": null,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-20T15:53:39+0300",
+        "created_at": "2024-08-20T15:53:39+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106074381",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106074381?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106074381",
+        "relations": [],
+        "employer": {
+            "id": "181500",
+            "name": "Nordcore (ex. Swift Technical)",
+            "url": "https://api.hh.ru/employers/181500",
+            "alternate_url": "https://hh.ru/employer/181500",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6794878.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1293646.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/6794879.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181500",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "ASP.NET, Web API, WCF, SQL (Опыт работы с SignalR, PostgreSQL, RabbitMQ/Kafka будет плюсом). Высшее техническое или ИТ образование. ",
+            "responsibility": "Основная задача команды создание ИТ продуктов - ПО для сопровождения процессов бурения, а также разработки нефтегазового месторождения."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "101276952",
+        "premium": false,
+        "name": "IOS разработчик ( продуктовая команда)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-03T16:13:44+0300",
+        "created_at": "2024-08-03T16:13:44+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101276952",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/101276952?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101276952",
+        "relations": [],
+        "employer": {
+            "id": "1959252",
+            "name": "СберЗдоровье",
+            "url": "https://api.hh.ru/employers/1959252",
+            "alternate_url": "https://hh.ru/employer/1959252",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/3427702.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3427701.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/746685.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1959252",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Понимаешь, какие требования к проекту формируют принципы SOLID, а также знаком с архитектурными подходами <highlighttext>MV</highlighttext>*, их плюсами и минусами. ",
+            "responsibility": "Разрабатывать клиентское приложение СберЗдоровье в кросс-функциональной команде, активно взаимодействую с инженерами различных компетенций (backend, frontend, QA). Декомпозировать и планировать..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105706812",
+        "premium": false,
+        "name": "Middle+ Android-разработчик в Контур",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "96",
+            "name": "Ижевск",
+            "url": "https://api.hh.ru/areas/96"
+        },
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-13T07:54:39+0300",
+        "created_at": "2024-08-13T07:54:39+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105706812",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105706812?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105706812",
+        "relations": [],
+        "employer": {
+            "id": "41862",
+            "name": "Контур",
+            "url": "https://api.hh.ru/employers/41862",
+            "alternate_url": "https://hh.ru/employer/41862",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/3863720.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3863719.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/855711.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=41862",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Основной стек: Jetpack Compose, Kotlin Coroutines, Decompose, Ktor/Retrofit, Room/SqlDelight, MVI/VisualFSM, Koin. Самостоятельно вели проекты как разработчик. ",
+            "responsibility": "Готовы изучать новые технологии. Переиспользуем общие инфраструктурные модули, ускоряющие разработку: единая авторизация, контроль безопасности, чат с техподдержкой и т. д. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "104039813",
+        "premium": false,
+        "name": "Ученик электроэрозиониста",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "68",
+            "name": "Омск",
+            "url": "https://api.hh.ru/areas/68"
+        },
+        "salary": {
+            "from": 30000,
+            "to": 30000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Омск",
+            "street": "улица 22-го Партсъезда",
+            "building": "97к1",
+            "lat": 55.019217,
+            "lng": 73.44526,
+            "description": null,
+            "raw": "Омск, улица 22-го Партсъезда, 97к1",
+            "metro": null,
+            "metro_stations": [],
+            "id": "457593"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-28T06:12:06+0300",
+        "created_at": "2024-08-28T06:12:06+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104039813",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/104039813?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104039813",
+        "relations": [],
+        "employer": {
+            "id": "1328455",
+            "name": "НТК Криогенная техника",
+            "url": "https://api.hh.ru/employers/1328455",
+            "alternate_url": "https://hh.ru/employer/1328455",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/242923.PNG",
+                "90": "https://img.hhcdn.ru/employer-logo/1414369.png",
+                "240": "https://img.hhcdn.ru/employer-logo/1414370.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1328455",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Среднее общее или среднее профессиональное образование.",
+            "responsibility": "Выполнение электроэрозионных работ на станках Mitsubishi <highlighttext>MV</highlighttext>-1200S. Acutex GA-43 AL."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "86",
+                "name": "Оператор станков с ЧПУ"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105519609",
+        "premium": false,
+        "name": "Senior Android разработчик (Java/Kotlin)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-09T11:29:11+0300",
+        "created_at": "2024-08-09T11:29:11+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105519609",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105519609?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105519609",
+        "relations": [],
+        "employer": {
+            "id": "681672",
+            "name": "USETECH",
+            "url": "https://api.hh.ru/employers/681672",
+            "alternate_url": "https://hh.ru/employer/681672",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6606194.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6606193.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1246441.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=681672",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Глубокое понимание Android SDK. Понимание Clean Architecture. Знание <highlighttext>MV</highlighttext>* паттернов, паттернов проектирования и архитектур. Понимание многомодульной архитектуры приложения. ",
+            "responsibility": "Работа над продуктовыми задачами внутри фича-команд. Развитие интересных вам технических частей проекта. Проведение Code Review. Улучшение архитектуры и принятие..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105544748",
+        "premium": false,
+        "name": "Senior Android Developer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-09T16:10:08+0300",
+        "created_at": "2024-08-09T16:10:08+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105544748",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105544748?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105544748",
+        "relations": [],
+        "employer": {
+            "id": "681672",
+            "name": "USETECH",
+            "url": "https://api.hh.ru/employers/681672",
+            "alternate_url": "https://hh.ru/employer/681672",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6606194.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6606193.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1246441.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=681672",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Глубокое понимание Android SDK. Понимание Clean Architecture. Знание <highlighttext>MV</highlighttext>* паттернов, паттернов проектирования и архитектур. Понимание многомодульной архитектуры приложения. ",
+            "responsibility": "Работа над продуктовыми задачами внутри фича-команд. Развитие технических частей проекта. Проведение Code Review. Улучшение архитектуры проекта и принятие технических..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "106262553",
+        "premium": false,
+        "name": "Senior HV Electrical Engineer",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Ташкент",
+            "street": "Мирзо-Улугбекский район",
+            "building": null,
+            "lat": 41.326213,
+            "lng": 69.326916,
+            "description": null,
+            "raw": "Ташкент, Мирзо-Улугбекский район",
+            "metro": null,
+            "metro_stations": [],
+            "id": "4765159"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-09-01T14:43:32+0300",
+        "created_at": "2024-09-01T14:43:32+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=106262553",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/106262553?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/106262553",
+        "relations": [],
+        "employer": {
+            "id": "4413816",
+            "name": "Juru",
+            "url": "https://api.hh.ru/employers/4413816",
+            "alternate_url": "https://hh.ru/employer/4413816",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1123062.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6112837.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6112838.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4413816",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Bachelor or master's degree in electrical engineering. +7 years of experience in engineering design of HV/EHV substations. ",
+            "responsibility": "Prepare equipment specifications and datasheets & BOQ for substation HV/<highlighttext>MV</highlighttext> components (Transformers, Compensators, Reactors, Harmonic filters, STATCOM, AIS/GIS Switchgear..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "moreThan6",
+            "name": "Более 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "104552522",
+        "premium": false,
+        "name": "Android developer (senior), Jusan Business",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Алматы",
+            "street": "проспект Аль-Фараби",
+            "building": "36",
+            "lat": 43.226647,
+            "lng": 76.943381,
+            "description": null,
+            "raw": "Алматы, проспект Аль-Фараби, 36",
+            "metro": null,
+            "metro_stations": [],
+            "id": "7230150"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-23T09:58:04+0300",
+        "created_at": "2024-08-23T09:58:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104552522",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/104552522?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104552522",
+        "relations": [],
+        "employer": {
+            "id": "146547",
+            "name": "Jusan Bank",
+            "url": "https://api.hh.ru/employers/146547",
+            "alternate_url": "https://hh.ru/employer/146547",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/3899279.png",
+                "240": "https://img.hhcdn.ru/employer-logo/3899280.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/864601.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=146547",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Понимание принципов SOLID и Clean Architecture. Умение работать с мобильными архитектурами <highlighttext>MV</highlighttext> архитектур (MVVM, MVP), Koin, Coroutines, Navigation Component. ",
+            "responsibility": "Разработка новых и поддержка существующих приложений под Android для корпоративных клиентов. Принятие архитектурных решений. Написание качественного кода. Взаимодействие с аналитиками..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105165325",
+        "premium": false,
+        "name": "Менеджер по продажам",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "159",
+            "name": "Астана",
+            "url": "https://api.hh.ru/areas/159"
+        },
+        "salary": {
+            "from": 130000,
+            "to": 600000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Астана",
+            "street": "улица Культегин",
+            "building": "11А",
+            "lat": 51.134351,
+            "lng": 71.372901,
+            "description": null,
+            "raw": "Астана, улица Культегин, 11А",
+            "metro": null,
+            "metro_stations": [],
+            "id": "16252937"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-03T13:57:21+0300",
+        "created_at": "2024-08-03T13:57:21+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105165325",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105165325?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105165325",
+        "relations": [],
+        "employer": {
+            "id": "9119509",
+            "name": "lux service",
+            "url": "https://api.hh.ru/employers/9119509",
+            "alternate_url": "https://hh.ru/employer/9119509",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6882827.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1315648.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/6882826.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9119509",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Обладали такими качествами как: коммуникабельность, дисциплинированность, самоорганизованность, быстро обучаемость. Умели грамотно говорить и располагать к себе собеседника. Уверенный пользователь ПК.",
+            "responsibility": "Обрабатывать входящие заявки. Работать с электронными базами клиентов. Анализировать рынок. Проводить консультации клиентам. Презентовать услуги нашей компании. Работать с CRM..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "87654374",
+        "premium": false,
+        "name": "Электроэрозионист",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "68",
+            "name": "Омск",
+            "url": "https://api.hh.ru/areas/68"
+        },
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Омск",
+            "street": "улица 22-го Партсъезда",
+            "building": "97к1",
+            "lat": 55.019217,
+            "lng": 73.44526,
+            "description": null,
+            "raw": "Омск, улица 22-го Партсъезда, 97к1",
+            "metro": null,
+            "metro_stations": [],
+            "id": "457593"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-26T13:29:37+0300",
+        "created_at": "2024-08-26T13:29:37+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=87654374",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/87654374?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/87654374",
+        "relations": [],
+        "employer": {
+            "id": "1328455",
+            "name": "НТК Криогенная техника",
+            "url": "https://api.hh.ru/employers/1328455",
+            "alternate_url": "https://hh.ru/employer/1328455",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/242923.PNG",
+                "90": "https://img.hhcdn.ru/employer-logo/1414369.png",
+                "240": "https://img.hhcdn.ru/employer-logo/1414370.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1328455",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Среднее профессиональное образование. Наличие документов о профессии и разряде (3-5 разряд). Возможно обучение профессии.",
+            "responsibility": "Выполнение электроэрозионных работ на станках Mitsubishi <highlighttext>MV</highlighttext>-1200S. Acutex GA-43 AL."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "40",
+                "name": "Другое"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105073176",
+        "premium": false,
+        "name": "Старший разработчик IOS, Логистика, приложение Пункт Ozon",
+        "department": {
+            "id": "ozonru-2180-dev",
+            "name": "Ozon Информационные технологии"
+        },
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-31T18:36:33+0300",
+        "created_at": "2024-08-31T18:36:33+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105073176",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105073176?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105073176",
+        "relations": [],
+        "employer": {
+            "id": "2180",
+            "name": "Ozon",
+            "url": "https://api.hh.ru/employers/2180",
+            "alternate_url": "https://hh.ru/employer/2180",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1069622.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5899118.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5899117.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2180",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Аĸтуальный опыт работы со SwiftUI (последний год). Опыт работы с MVVM или <highlighttext>MV</highlighttext>-архитектурами в целом. Понимание и применение принципов...",
+            "responsibility": "Swift 5, SwiftUI 3.0, Combine, PromiseKit, iOS 15+. MVVM архитектура. Snapshot-тесты всех экранов, unit-тесты для сложных..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105706874",
+        "premium": false,
+        "name": "Middle+ Android-разработчик в Контур",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "76",
+            "name": "Ростов-на-Дону",
+            "url": "https://api.hh.ru/areas/76"
+        },
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-13T07:56:17+0300",
+        "created_at": "2024-08-13T07:56:17+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105706874",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105706874?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105706874",
+        "relations": [],
+        "employer": {
+            "id": "41862",
+            "name": "Контур",
+            "url": "https://api.hh.ru/employers/41862",
+            "alternate_url": "https://hh.ru/employer/41862",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/3863720.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3863719.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/855711.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=41862",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Основной стек: Jetpack Compose, Kotlin Coroutines, Decompose, Ktor/Retrofit, Room/SqlDelight, MVI/VisualFSM, Koin. Самостоятельно вели проекты как разработчик. ",
+            "responsibility": "Готовы изучать новые технологии. Переиспользуем общие инфраструктурные модули, ускоряющие разработку: единая авторизация, контроль безопасности, чат с техподдержкой и т. д. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105073177",
+        "premium": false,
+        "name": "Старший разработчик IOS, Логистика, приложение Пункт Ozon",
+        "department": {
+            "id": "ozonru-2180-dev",
+            "name": "Ozon Информационные технологии"
+        },
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-31T18:36:33+0300",
+        "created_at": "2024-08-31T18:36:33+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105073177",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105073177?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105073177",
+        "relations": [],
+        "employer": {
+            "id": "2180",
+            "name": "Ozon",
+            "url": "https://api.hh.ru/employers/2180",
+            "alternate_url": "https://hh.ru/employer/2180",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1069622.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5899118.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5899117.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2180",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Аĸтуальный опыт работы со SwiftUI (последний год). Опыт работы с MVVM или <highlighttext>MV</highlighttext>-архитектурами в целом. Понимание и применение принципов...",
+            "responsibility": "Swift 5, SwiftUI 3.0, Combine, PromiseKit, iOS 15+. MVVM архитектура. Snapshot-тесты всех экранов, unit-тесты для сложных..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105706787",
+        "premium": false,
+        "name": "Middle+ Android-разработчик в Контур",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-13T07:54:16+0300",
+        "created_at": "2024-08-13T07:54:16+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105706787",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105706787?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105706787",
+        "relations": [],
+        "employer": {
+            "id": "41862",
+            "name": "Контур",
+            "url": "https://api.hh.ru/employers/41862",
+            "alternate_url": "https://hh.ru/employer/41862",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/3863720.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3863719.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/855711.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=41862",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Основной стек: Jetpack Compose, Kotlin Coroutines, Decompose, Ktor/Retrofit, Room/SqlDelight, MVI/VisualFSM, Koin. Самостоятельно вели проекты как разработчик. ",
+            "responsibility": "Готовы изучать новые технологии. Переиспользуем общие инфраструктурные модули, ускоряющие разработку: единая авторизация, контроль безопасности, чат с техподдержкой и т. д. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105226248",
+        "premium": false,
+        "name": "Монтажник РЭА",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 80000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "2-й Южнопортовый проезд",
+            "building": "20Ас4",
+            "lat": 55.702384,
+            "lng": 37.693597,
+            "description": null,
+            "raw": "Москва, 2-й Южнопортовый проезд, 20Ас4",
+            "metro": {
+                "station_name": "Кожуховская",
+                "line_name": "Люблинско-Дмитровская",
+                "station_id": "10.52",
+                "line_id": "10",
+                "lat": 55.706156,
+                "lng": 37.68544
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Кожуховская",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.52",
+                    "line_id": "10",
+                    "lat": 55.706156,
+                    "lng": 37.68544
+                }
+            ],
+            "id": "5202388"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-09-01T10:47:24+0300",
+        "created_at": "2024-09-01T10:47:24+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105226248",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105226248?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105226248",
+        "relations": [],
+        "employer": {
+            "id": "58593",
+            "name": "Videofon MV",
+            "url": "https://api.hh.ru/employers/58593",
+            "alternate_url": "https://hh.ru/employer/58593",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=58593",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "В производственную лабораторию нужен хороший монтажник РЭА. Желательно, но не обязательно, радиолюбитель – человек, которому самому интересно разбираться в причинах неисправностей...",
+            "responsibility": "Ремонт печатных плат разной сложности, на некоторых из них присутствует плотный монтаж элементов; монтаж экспериментальных печатных плат. Монтаж мелкосерийных печатных..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "78",
+                "name": "Монтажник"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105788397",
+        "premium": false,
+        "name": "IOS Developer ( Платформенная команда)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-14T11:38:42+0300",
+        "created_at": "2024-08-14T11:38:42+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105788397",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105788397?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105788397",
+        "relations": [],
+        "employer": {
+            "id": "1959252",
+            "name": "СберЗдоровье",
+            "url": "https://api.hh.ru/employers/1959252",
+            "alternate_url": "https://hh.ru/employer/1959252",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/3427702.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3427701.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/746685.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1959252",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Понимаешь, какие требования к проекту формируют принципы SOLID, а также знаком с архитектурными подходами <highlighttext>MV</highlighttext>*, их плюсами и минусами. ",
+            "responsibility": "Задавать план развития мобильного приложения: технологии, инструменты, архитектура и т.д. Решать сервисные задачи (инструменты аналитики, пуши, диплинки). "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "moreThan6",
+            "name": "Более 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105498361",
+        "premium": false,
+        "name": "Android разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "4",
+            "name": "Новосибирск",
+            "url": "https://api.hh.ru/areas/4"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Новосибирск",
+            "street": "улица Кирова",
+            "building": "86",
+            "lat": 55.014097,
+            "lng": 82.949769,
+            "description": null,
+            "raw": "Новосибирск, улица Кирова, 86",
+            "metro": {
+                "station_name": "Октябрьская",
+                "line_name": "Ленинская",
+                "station_id": "52.298",
+                "line_id": "52",
+                "lat": 55.018789,
+                "lng": 82.939007
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Октябрьская",
+                    "line_name": "Ленинская",
+                    "station_id": "52.298",
+                    "line_id": "52",
+                    "lat": 55.018789,
+                    "lng": 82.939007
+                }
+            ],
+            "id": "341092"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-30T05:34:29+0300",
+        "created_at": "2024-08-30T05:34:29+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105498361",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105498361?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105498361",
+        "relations": [],
+        "employer": {
+            "id": "8550",
+            "name": "Центр финансовых технологий",
+            "url": "https://api.hh.ru/employers/8550",
+            "alternate_url": "https://hh.ru/employer/8550",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/690133.gif",
+                "240": "https://img.hhcdn.ru/employer-logo/3201665.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3201664.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8550",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Знание различных паттернов проектирования, архитектурных подходов и принципов (Clean Architecture, <highlighttext>MV</highlighttext>*, SOLID). Знания HTTP/HTTPS, REST API, WebSockets. ",
+            "responsibility": "Наша команда разрабатывает программное обеспечение для организации взаимодействия банков с внешними системами. У сотрудников также есть возможность активно участвовать в..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "103943803",
+        "premium": false,
+        "name": "Middle/Senior Android разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-14T19:05:36+0300",
+        "created_at": "2024-08-14T19:05:36+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103943803",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/103943803?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/103943803",
+        "relations": [],
+        "employer": {
+            "id": "3730590",
+            "name": "Fido-Biznes",
+            "url": "https://api.hh.ru/employers/3730590",
+            "alternate_url": "https://hh.ru/employer/3730590",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/5389320.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/5389321.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/963825.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3730590",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Умение работать с инструментами Android Studio, GIT. Знание Методологий и архитектур в Android (<highlighttext>MV</highlighttext> VM, MVI). Знание и понимание самых...",
+            "responsibility": "Разработка и поддержка серверной части нашего программного обеспечения, связанного с PL/SQL, Oracle. Работа в команде с другими разработчиками и..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "105162298",
+        "premium": false,
+        "name": "Менеджер по продажам (оператор-консультант)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "159",
+            "name": "Астана",
+            "url": "https://api.hh.ru/areas/159"
+        },
+        "salary": {
+            "from": 90000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Астана",
+            "street": "улица Культегин",
+            "building": "11А",
+            "lat": 51.134351,
+            "lng": 71.372901,
+            "description": null,
+            "raw": "Астана, улица Культегин, 11А",
+            "metro": null,
+            "metro_stations": [],
+            "id": "16252937"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-03T11:19:47+0300",
+        "created_at": "2024-08-03T11:19:47+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105162298",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/105162298?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/105162298",
+        "relations": [],
+        "employer": {
+            "id": "9119509",
+            "name": "lux service",
+            "url": "https://api.hh.ru/employers/9119509",
+            "alternate_url": "https://hh.ru/employer/9119509",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6882827.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1315648.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/6882826.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9119509",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Обладали такими качествами как: коммуникабельность, дисциплинированность, самоорганизованность, быстро обучаемость. Умели грамотно говорить и располагать к себе собеседника. Уверенный пользователь ПК.",
+            "responsibility": "Обрабатывать входящие заявки. Работать с электронными базами клиентов. Презентовать услуги нашей компании. Работать с CRM-системой. Организовывать встречи и составлять..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "70",
+                "name": "Менеджер по продажам, менеджер по работе с клиентами"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "103960269",
+        "premium": false,
+        "name": "Senior Android разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-08-12T12:28:59+0300",
+        "created_at": "2024-08-12T12:28:59+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103960269",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/103960269?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/103960269",
+        "relations": [],
+        "employer": {
+            "id": "4898403",
+            "name": "АО ANOR BANK",
+            "url": "https://api.hh.ru/employers/4898403",
+            "alternate_url": "https://hh.ru/employer/4898403",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1070485.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5902570.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5902569.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4898403",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Знание и применение принципов ООП, SOLID. Понимание паттернов проектирования, архитектурных подходов <highlighttext>MV</highlighttext>*. Умение реализовывать многопоточность с Kotlin Coroutines / RxJava. ",
+            "responsibility": "Участие в полном цикле разработки приложения и его компонентов. Взаимодействие с внутренними заказчиками. Взаимодействие с членами команды и со смежными..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between3And6",
+            "name": "От 3 до 6 лет"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    }
+]
